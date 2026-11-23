@@ -625,3 +625,24 @@ footer p a {
     }
      
 }
+
+.applications p {
+    color: #e6e6e6;
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.application-frame {
+    width: 90%;
+    height: 450px;
+    background-color: #0b0b0d;
+    border: 2px solid #800000;
+    border-radius: 8px;
+    margin: 10px auto 30px;
+    display: block;
+}
+
+.application-frame:hover {
+    box-shadow: 0 0 16px 4px #800000;
+}
